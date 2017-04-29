@@ -7,7 +7,15 @@
     "test": "ava *.test.js",
     "release": "npm test && standard-version"
   },
-  "keywords": [],
+  "keywords": [
+    "canjs",
+    "canjs-plugin",
+    "can-stream",
+    "can-stream-x",
+    "frp",
+    "stream",
+    "rxjs"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
