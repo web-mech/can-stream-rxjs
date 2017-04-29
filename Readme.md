@@ -1,7 +1,6 @@
 # can-stream-rxjs
 
-Stream values into and out of computes using any streaming lib.
-Great for streaming libs that return emitters as a callback.
+Stream values into and out of computes using can-stream + rxjs
 
 ## Syntax
 
