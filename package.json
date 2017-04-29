@@ -1,0 +1,36 @@
+{
+  "name": "can-stream-rxjs",
+  "version": "0.0.0",
+  "description": "",
+  "main": "can-stream-rxjs.js",
+  "scripts": {
+    "test": "ava *.test.js",
+    "release": "npm test && standard-version"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "can-stream-x": "^1.0.0",
+    "rxjs": "^5.3.0"
+  },
+  "devDependencies": {
+    "ava": "^0.19.1",
+    "can-compute": "^3.0.10",
+    "can-define": "^1.0.20",
+    "commitizen": "^2.9.6",
+    "cz-conventional-changelog": "^2.0.0",
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb": "^14.1.0",
+    "eslint-config-airbnb-base": "^11.1.3",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^4.0.0",
+    "eslint-plugin-react": "^6.10.3",
+    "standard-version": "^4.0.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
