@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="0.1.5"></a>
+## [0.1.5](https://github.com/web-mech/can-stream-rxjs/compare/v0.1.4...v0.1.5) (2017-05-01)
+
+
+
 <a name="0.1.4"></a>
 ## [0.1.4](http://web-mech/can-stream-rxjs/compare/v0.1.3...v0.1.4) (2017-04-30)
 
