@@ -1,6 +1,6 @@
 {
   "name": "can-stream-rxjs",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Stream values into and out of computes using can-stream + rxjs",
   "main": "can-stream-rxjs.js",
   "scripts": {
