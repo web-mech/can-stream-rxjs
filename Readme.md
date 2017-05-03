@@ -1,5 +1,7 @@
 # can-stream-rxjs
 
+[![Build Status](https://travis-ci.org/web-mech/can-stream-rxjs.svg?branch=master)](https://travis-ci.org/web-mech/can-stream-rxjs)
+
 Stream values into and out of computes using can-stream + rxjs
 
 ## Syntax
